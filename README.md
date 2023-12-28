@@ -2,7 +2,7 @@
 
 ## Paczka BattleField 2.
 
-<img src="[https://raw.githubusercontent.com/AMXX4u/BF2MOD/main/assets/battlefield2.png](https://github.com/AMXX4u/BF2MOD/blob/main/assests/battlefield2.png)"></img>
+<img src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/battlefield2.png"></img>
 
 </div>
 
