@@ -59,10 +59,10 @@
   
 - Rangi (say /ranga)
 
-  <img align="left" width="311" height="111" src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks.png"></img>
-  <img align="left" width="311" height="111" src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks2.png"></img>
-  <img align="left" width="311" height="111" src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks3.png"></img>
-  <img align="left" width="311" height="111" src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks4.png"></img>
+  <img src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks.png"></img>
+  <img src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks2.png"></img>
+  <img src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks3.png"></img>
+  <img src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks4.png"></img>
 
 - Statystyki gracza (say /bf2stats)
 
