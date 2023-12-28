@@ -61,7 +61,20 @@
   <img src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks2.png"></img>
   <img src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks3.png"></img>
   <img src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks4.png"></img>
+</details>
 
+<details>
+  <summary><b>Statystyki gracza (say /bf2stats)</b></summary>
+
+  <img align="left" width="311" height="111" src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/bf2stats.png"></img>
+  <img align="left" width="311" height="111" src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/bf2stats2.png"></img>
+  <img align="left" width="311" height="111" src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/bf2stats3.png"></img>
+</details>
+
+<details>
+  <summary><b>Menu główne (say /menu)</b></summary>
+
+  <img align="left" width="311" height="111" src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/menu.png"></img>
 </details>
 
 
