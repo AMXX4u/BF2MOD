@@ -55,24 +55,12 @@
 ### Screenshots
 
 <details>
-  <summary><b>Menu</b></summary>
-  
-- Rangi (say /ranga)
+  <summary><b>Rangi (say /ranga)</b></summary>
 
   <img src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks.png"></img>
   <img src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks2.png"></img>
   <img src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks3.png"></img>
   <img src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/cmd_ranks4.png"></img>
-
-- Statystyki gracza (say /bf2stats)
-
-  <img align="left" width="311" height="111" src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/bf2stats.png"></img>
-  <img align="left" width="311" height="111" src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/bf2stats2.png"></img>
-  <img align="left" width="311" height="111" src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/bf2stats3.png"></img>
-
-- Menu główne (say /menu)
-
-  <img align="left" width="311" height="111" src="https://github.com/AMXX4u/BF2MOD/blob/main/assests/menu.png"></img>
 
 </details>
 
